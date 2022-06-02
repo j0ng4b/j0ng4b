@@ -9,6 +9,10 @@
   Oh, also, I know how to close Vim :q
 </p>
 <br>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/j0ng4b" />
+</p>
+<br>
 <div align="center">
   <h2>Statistics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=j0ng4b&show_icons=true&include_all_commits=true&count_private=true&line_height=22&border_radius=30&border_color=ff4500&title_color=ff4500&text_color=aaa&icon_color=ff4500&bg_color=22272e" alt="j0ng4b's GitHub Stats" />
