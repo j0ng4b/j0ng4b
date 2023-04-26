@@ -2,11 +2,11 @@
   <h1>Hello! 👋</h1>
 </div>
 <p>
-  I'm Jonatha Gabriel, j0ng4b for short, a self-taught programmer that's likes low level programming or almost low level 🙂.
+  I'm Jonatha Gabriel, j0ng4b for short, a self-taught programmer that's likes low level programming (or almost low level 🙂), game development and all graphical stuff, Android development and Web development as well (thought I hate more than others).
+  <br><br>
+  I love chess, animes, mangas, games and programming and also open source software.
   <br>
-  I love chess, animes, mangas, games and programming as well and open source software.
-  <br>
-  Oh, also, I know how to close Vim :q
+  Oh, also, I know how to close Vim (currently my main editor) :q
 </p>
 <br>
 <p align="center">
