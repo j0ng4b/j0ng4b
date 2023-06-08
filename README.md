@@ -46,13 +46,25 @@ more than others areas...).</em></p>
 </div>
 <br>
 <!-- Languages and tools section -->
+<h2 align="center">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼</h2>
+<br>
 <div align="center">
-  <h2>Languages and Tools</h2>
-  <img src="https://img.shields.io/badge/C%20Language-222222?style=flat-square&logo=c&logoColor=white&labelColor=00599C">
-  <img src="https://img.shields.io/badge/Shell%20Script-222222?style=flat-square&logo=shell&logoColor=white&labelColor=FF9900">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   <br>
-  <img src="https://img.shields.io/badge/Vim-222222?style=flat-square&logo=vim&logoColor=black&labelColor=11AB00">
-  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=black&labelColor=F05033">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40">
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40">
+  <br>
 </div>
 <br>
 <!-- Social media section -->
@@ -67,11 +79,9 @@ more than others areas...).</em></p>
   <a href="https://www.linkedin.com/in/j0ng4b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <br>
   <a href="https://anilist.co/user/j0ng4b">
     <img src="https://img.shields.io/badge/AniList-1B2230?style=for-the-badge&logo=anilist&logoColor=white">
   </a>
-  <br>
   <a href="https://www.reddit.com/u/j0ng4b">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
