@@ -3,7 +3,8 @@
 <p><em>I'm Jonatha Gabriel, j0ng4b for short, a self-taught programmer that's likes
 low level programming (or almost low level 🙂), game development and all
 graphical stuff, Android development and Web development as well (although I hate
-more than others areas...).</em></p>
+more than others areas...).</em><br><br>Currently, I'm student of Information Systems at
+Federal Universite of Sergipe.</p>
 <details>
   <summary><i>Things thats I like and random stuff<i></summary>
   <table>
