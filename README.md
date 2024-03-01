@@ -37,7 +37,7 @@ Federal Universite of Sergipe.</p>
 </details>
 <!-- Profile views counter -->
 <div align="center">
-  <img alt="Profile views" src="https://img.shields.io/endpoint?color=%237daea3&label=Profile views&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2Fj0ng4b%2Fj0ng4b.json">
+  <img src="https://komarev.com/ghpvc/?username=j0ng4b&style=flat-square&abbreviated=true&base=500">
 </div>
 <!-- Statistics -->
 <div align="center">
