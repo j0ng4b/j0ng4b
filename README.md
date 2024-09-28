@@ -85,7 +85,7 @@ Federal Universite of Sergipe.</p>
   </tbody>
 
   <thead>
-    <th colspan="6">Weebo</th>
+    <th colspan="6">Web</th>
   </thead>
   <tbody>
     <tr>
