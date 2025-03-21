@@ -44,8 +44,8 @@ Federal Universite of Sergipe.</p>
 <!-- Statistics -->
 <div align="center">
   <h2>𝓢𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓼</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=j0ng4b&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&line_height=22&hide_border=true&title_color=7daea3&text_color=aaa&icon_color=7daea3&custom_title=𝒥𝑜𝓃𝒶𝓉𝒽𝒶%20𝒢𝒶𝒷𝓇𝒾𝑒𝓁'𝓈%20𝒢𝒾𝓉𝐻𝓊𝒷%20𝒮𝓉𝒶𝓉𝓈" alt="Jonatha Gabriel's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0ng4b&theme=transparent&layout=compact&card_width=300&langs_count=8&hide_border=true&title_color=7daea3&text_color=aaa&icon_color=7daea3&custom_title=𝑀𝑜𝓈𝓉%20𝒰𝓈𝑒𝒹%20𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈" alt="Top Languages">
+  <img src="https://github-readme-stats-jonatha-gabriels-projects.vercel.app/api?username=j0ng4b&theme=transparent&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&line_height=22&hide_border=true&title_color=7daea3&text_color=aaa&icon_color=7daea3&custom_title=𝒥𝑜𝓃𝒶𝓉𝒽𝒶%20𝒢𝒶𝒷𝓇𝒾𝑒𝓁'𝓈%20𝒢𝒾𝓉𝐻𝓊𝒷%20𝒮𝓉𝒶𝓉𝓈" alt="Jonatha Gabriel's GitHub Stats">
+  <img src="https://github-readme-stats-jonatha-gabriels-projects.vercel.app/api/top-langs/?username=j0ng4b&theme=transparent&layout=compact&card_width=300&langs_count=8&hide_border=true&title_color=7daea3&text_color=aaa&icon_color=7daea3&custom_title=𝑀𝑜𝓈𝓉%20𝒰𝓈𝑒𝒹%20𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈" alt="Top Languages">
 </div>
 <br>
 <!-- Languages and tools section -->
