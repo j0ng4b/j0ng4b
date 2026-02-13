@@ -35,12 +35,9 @@ Federal Universite of Sergipe.</p>
 </details>
 <!-- Profile views counter -->
 <br />
-<table align="center">
-  <tr>
-    <td>Profile views</td>
-    <td><img alt="Profile views" src="https://profile-counter.glitch.me/j0ng4b/count.svg"></td>
-  </tr>
-</table>
+<div align="center">
+  <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=j0ng4b&base=1100&style=for-the-badge&abbreviated=true">
+</div>
 <!-- Statistics -->
 <div align="center">
   <h2>𝓢𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓼</h2>
